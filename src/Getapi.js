@@ -31,6 +31,7 @@ export default class Getapi extends Component {
                                 <>
                                 <li>{item.id}</li>
                                 <li>{item.name}</li>
+                             
 
                                 </>
                             )
